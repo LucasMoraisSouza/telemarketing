@@ -14,7 +14,7 @@ A última coluna indica se após o contato com o cliente ele optou ou não por c
 
 ## Utilização
 
-O aplicativo será utilizado para obter visões dos dados de forma a enchergar preferências de perfis que aderem mais às ofertas.
+O aplicativo será utilizado para obter visões dos dados de forma a enxergar preferências de perfis que aderem mais às ofertas.
 
 Tais diferentes visões são possíveis graças à varios filtros disponíveis na aplicação que psosibilitam simular um cliente novo e ver o quão grande é o grupo do qual ele faria parte.
 
