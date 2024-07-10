@@ -1,62 +1,30 @@
-# Título do projeto
+# Análise de dados de ação de Telemarketing
+## Aplicação Web para encontrar perfil com maior aderência às ofertas do time de telemarketing
 
-Um simples resumo do uso/propósito do projeto.
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Este projeto utiliza um banco de dados de uma campanha de marketing de um banco . 
+
+O objetivo é analisar os dados para entender os fatores que influenciam a aceitação dos produtos bancários oferecidos aos clientes.
+
+O banco de dados contém diversas informações sobre o contato para especificá-lo da melhor forma possível.
+
+A última coluna indica se após o contato com o cliente ele optou ou não por contratar o produto oferecido.
 
 ## Utilização
 
-### Dependencias
+O aplicativo será utilizado para obter visões dos dados de forma a enchergar preferências de perfis que aderem mais às ofertas.
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+Tais diferentes visões são possíveis graças à varios filtros disponíveis na aplicação que psosibilitam simular um cliente novo e ver o quão grande é o grupo do qual ele faria parte.
 
-### Instalação
+Assim facilitamos a tomada de decisão do time para qual perfil de prospect deve ser aplicado maior esforço por ter maiores chances de aderir ao produto oferecido.
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
 
-### Executando o projeto
+### Link para acesso ao WebApp 
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+https://telemarketing-190n.onrender.com
 
-## Ajuda
+O banco de dados utilizado para fazer o upload no WebApp se encontra no repositório deste trabalho nomeado como "bank_additional.csv"
 
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
 
-## Autores
-
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
